@@ -16,7 +16,7 @@
 # نصب
 
 ```sh
-git clone https://github.com/titanteams/tabchi
+git clone https://github.com/amirhmoaseri00/tabchi00
 cd tabchi
 chmod +x bot
 ./bot install
@@ -47,11 +47,9 @@ cd tabchi
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
 ***
-### اموزش ها
-
-[اموزش کامل نصب](https://telegram.me/TitanTeams/677)
+### درباره ی ما
 
 ### Developers
-[mohammadrezajiji](https://telegram.me/mohammadrezajiji)
+[Amir.H.Moaseri](https://telegram.me/Amir.H.Moaseri)
 ### channel
-[TitanTeam](https://telegram.me/titanteams)
+[ناب والپیپر](https://telegram.me/Nab_Wallpaper_Ir)
