@@ -1,4 +1,4 @@
-# [Tabchi | v.1](https://telegram.me/Titanteams)
+# [Tabchi | v.1](https://telegram.me/nab_wallpaper_ir)
 
 تبچی خودت رو بساز ;)
 
@@ -17,7 +17,7 @@
 
 ```sh
 git clone https://github.com/amirhmoaseri00/tabchi00
-cd tabchi
+cd tabchi00
 chmod +x bot
 ./bot install
 # and send [y] to finish install
